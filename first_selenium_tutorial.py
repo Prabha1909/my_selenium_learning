@@ -10,3 +10,5 @@ class FFtest():
 
 ff = FFtest
 ff.fftest_method(self="a")
+
+#added comment
