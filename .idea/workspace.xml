@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="805560f9-d8b0-4fde-a8cf-6e79ffbef5ad" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Finding_Elements/FindingElemtsbyID.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Finding Elements/FindByIDName.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Finding_Elements/FindingElemtsbyID.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindingElemtsbyID.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Finding_Elements/FindingElemtsbyID.py">
+      <file leaf-file-name="FindByIDName.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Finding Elements/FindByIDName.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,6 +54,7 @@
       <list>
         <option value="$PROJECT_DIR$/Finding Elements/FindByIdName.py" />
         <option value="$PROJECT_DIR$/Finding_Elements/FindingElemtsbyID.py" />
+        <option value="$PROJECT_DIR$/Finding Elements/FindByIDName.py" />
       </list>
     </option>
   </component>
@@ -85,11 +87,6 @@
             <path>
               <item name="my_selenium_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_selenium_learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_selenium_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_selenium_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Finding_Elements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,10 +163,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Finding Elements/FindByIdName.py">
+    <entry file="file://$PROJECT_DIR$/Running_test_on_various_browsers/Chrome_first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Finding_Elements/FindingElemtsbyID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -183,10 +190,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Finding_Elements/FindingElemtsbyID.py">
+    <entry file="file://$PROJECT_DIR$/Finding Elements/FindByIDName.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
